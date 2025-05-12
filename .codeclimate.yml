@@ -1,0 +1,11 @@
+engines:
+  duplication:
+    enabled: true
+    config:
+      mass_threshold: 65
+  maintainability:
+    enabled: true
+
+ratings:
+  paths:
+    - "**.js"
